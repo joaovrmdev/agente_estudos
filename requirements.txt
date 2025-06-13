@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+Pillow
+PyMuPDF<1.24.0
+pytesseract
